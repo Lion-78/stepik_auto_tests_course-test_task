@@ -1,0 +1,9 @@
+# Folders
+.pytest_cache
+__pycache__
+environments
+.idea
+
+# Files
+*/test_data.txt
+*.log
